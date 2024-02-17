@@ -1,7 +1,6 @@
 # [Rafael Laranja]
 
 
-## Sobre Mim
 # [Desenvolvedor Android Júnior]
 Olá! Sou um desenvolvedor Android apaixonado por criar aplicativos que proporcionam ótimas experiências aos usuários. Com uma base em desenvolvimento Android, estou comprometido em construir soluções inovadoras e funcionais que agreguem valor aos usuários finais.
 
