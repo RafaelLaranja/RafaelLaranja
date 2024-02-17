@@ -19,13 +19,13 @@ Olá! Sou um desenvolvedor Android apaixonado por criar aplicativos que proporci
 - Familiaridade com Jetpack: Utilização de ViewBinding, LiveData e ViewModel para facilitar o desenvolvimento de aplicativos Android modernos.
 - Versionamento de Código: Experiência com Git e GitHub para controle de versão e colaboração em equipe.
 
-##Um pouco sobre mim
+## Um pouco sobre mim
 Sou um desenvolvedor dedicado e entusiasmado com uma paixão por criar soluções inovadoras e eficientes. Estou em busca de oportunidades desafiadoras em um ambiente colaborativo, onde possa aplicar e expandir meus conhecimentos e habilidades.
 
-#Interesses Profissionais:
+# Interesses Profissionais:
 Estou ansioso para me envolver em projetos que ofereçam desafios significativos e oportunidades de aprendizado contínuo. Estou aberto a explorar novas tecnologias e metodologias, e estou comprometido em me tornar um profissional ainda mais qualificado e eficiente.
 
-#Trabalho em Equipe
+# Trabalho em Equipe
 Tenho um histórico de colaboração eficaz em equipes multidisciplinares. Sou proativo na busca por soluções e contribuo ativamente com ideias criativas e viáveis. Mesmo como um desenvolvedor em início de carreira, estou comprometido em oferecer o meu melhor para o sucesso do projeto e do time.
 
 ## Contato:
