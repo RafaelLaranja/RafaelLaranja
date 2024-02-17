@@ -17,6 +17,7 @@ Olá! Sou um desenvolvedor Android apaixonado por criar aplicativos que proporci
 - Integração de Serviços Web: Conhecimento em consumir APIs RESTful utilizando bibliotecas como Retrofit, manipulação de JSON e gerenciamento de chamadas assíncronas com corrotinas.
 - Listagem e Exibição de Dados: Domínio em ListView, RecyclerView e CardView para criar listas dinâmicas e atraentes.
 - Familiaridade com Jetpack: Utilização de ViewBinding, LiveData e ViewModel para facilitar o desenvolvimento de aplicativos Android modernos.
+- Persistência de Dados: Experiência em CRUD com banco de dados SQLite, além de integração com o Firebase para autenticação, Firestore para armazenamento de dados e preferências compartilhadas.
 - Versionamento de Código: Experiência com Git e GitHub para controle de versão e colaboração em equipe.
 
 ## Um pouco sobre mim
