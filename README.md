@@ -29,7 +29,7 @@ Estou ansioso para me envolver em projetos que ofereçam desafios significativos
 Tenho um histórico de colaboração eficaz em equipes multidisciplinares. Sou proativo na busca por soluções e contribuo ativamente com ideias criativas e viáveis. Mesmo como um desenvolvedor em início de carreira, estou comprometido em oferecer o meu melhor para o sucesso do projeto e do time.
 
 ## Contato:
-LinkedIn: [https://www.linkedin.com/in/rafael-muniz-laranja-a589b8124/]
+LinkedIn: https://www.linkedin.com/in/rafael-muniz-laranja-a589b8124
 E-mail: munizlaranja@gmail.com
 Sinta-se à vontade para explorar meus projetos e entrar em contato para oportunidades de colaboração e aprendizado mútuo.
 
