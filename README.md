@@ -4,10 +4,6 @@
 # [Desenvolvedor Android Júnior]
 Olá! Sou um desenvolvedor Android apaixonado por criar aplicativos que proporcionam ótimas experiências aos usuários. Com uma base em desenvolvimento Android, estou comprometido em construir soluções inovadoras e funcionais que agreguem valor aos usuários finais.
 
-## Projeto Destacados
-
-[Nome do Projeto](link do projeto): Breve descrição do projeto e sua contribuição, destacando tecnologias e habilidades utilizadas.
-
 #### Habilidades e Conhecimentos:
 
 -Desenvolvimento de Aplicativos Android: Uso do Android Studio como ambiente de desenvolvimento integrado (IDE) para criar aplicativos móveis nativos para a plataforma Android, experiência em escrever código limpo e eficiente em Kotlin e Java para implementar funcionalidades e resolver problemas em projetos Android.
